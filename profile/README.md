@@ -33,8 +33,8 @@
 * Английский
 * [Учебная практика - С# (WPF)](https://github.com/Archive-of-practical-work-for-the-MPT/Industrial-Practic-C-Sharp)
 ### 3 курс:
-* Технология разработки и защиты баз - Data Analytics
-* Технология разработки и защиты баз - Data Science
+* [Технология разработки и защиты баз - Data Analytics](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Analytics)
+* [Технология разработки и защиты баз - Data Science](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Science)
 * [Системное программирование - Arduino](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Arduino)
 * Инструментальные средства разработки программного - Blender
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
