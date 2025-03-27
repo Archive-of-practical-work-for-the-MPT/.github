@@ -14,7 +14,8 @@
 * Информатика
 * Индивидуальный проект - Python
 ### 2 курс:
-* Основы алгоритмизации и программирования - Python
+* [Основы алгоритмизации и программирования - Python](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Python)
+* Основы алгоритмизации и программирования - Solidity
 * [Основы алгоритмизации и программирования - С#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Sharp)
 * Системное программирование - C++
 * Разработка мобильных приложений - Java
