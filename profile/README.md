@@ -14,41 +14,26 @@
 * Информатика
 * [Индивидуальный проект - Python](https://github.com/Archive-of-practical-work-for-the-MPT/Visual-list-of-books-app)
 ### 2 курс:
-* [Основы алгоритмизации и программирования - Python](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Python)
-* [Основы алгоритмизации и программирования - Solidity](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Solidity)
-* [Основы алгоритмизации и программирования - С#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Sharp) | [Итоговая практическая работа](https://github.com/Archive-of-practical-work-for-the-MPT/EMIAS)
+* Основы алгоритмизации и программирования - [Python](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Python) | [Solidity](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Solidity) | [C#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Sharp) | [Итоговая практическая C#](https://github.com/Archive-of-practical-work-for-the-MPT/EMIAS)
 * [Системное программирование - C++](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Plus-Plus)
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
 * Основы проектирования баз данных - T-SQL, PostgreSQL, MySql
 * [Разработка программных модулей - HTML, CSS, JS, REACT](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-WEB)
-* Архитектура аппаратных средств
-* Операционные системы и среды - Linux
 * Компьютерные сети - Cisco
 * [Поддержка и тестирование программных модулей - C#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
-* Численные методы
-* Элементы высшей математики
-* Теория вероятности и математической статистики
-* Информационные технологии - Word, Excel
-* История
-* Английский
 * [Учебная практика - С# (WPF)](https://github.com/Archive-of-practical-work-for-the-MPT/Industrial-Practic-C-Sharp)
 ### 3 курс:
-* [Технология разработки и защиты баз - Data Analytics](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Analytics)
-* [Технология разработки и защиты баз - Data Science](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Science)
+* [Data Analytics](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Analytics)
+* [Data Science](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Science)
 * [Системное программирование - Arduino](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Arduino)
 * Инструментальные средства разработки программного - Blender
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
 * Разработка программных модулей - Unity
 * [Разработка программных модулей - ASP.NET](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-ASP)
 * [Поддержка и тестирование программных модулей - Java, C#, Apache](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
-* Технологии разработки программного обеспечения - Ramus
-* Стандандартизация, сертификация и тех. документоведение
 * [Маркетинг](https://github.com/Archive-of-practical-work-for-the-MPT/Marketing)
-* Правовые основы в проф. деятельности
-* Менеджмент в проф. деятельности
-* Английский язык
 * Учебная практика - Figma, Pixso
 * [Учебная практика 2 - C#](https://github.com/Archive-of-practical-work-for-the-MPT/ISART)
-* Курсовая работа - Java 
+* Курсовая работа - Java
 ### 4 курс:
 * скоро здесь будут предметы @_@
