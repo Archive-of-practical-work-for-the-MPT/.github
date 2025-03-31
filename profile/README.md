@@ -19,20 +19,17 @@
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
 * Основы проектирования баз данных - T-SQL, PostgreSQL, MySql
 * [Разработка программных модулей - HTML, CSS, JS, REACT](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-WEB)
-* Компьютерные сети - Cisco
 * [Поддержка и тестирование программных модулей - C#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
 * [Учебная практика - С# (WPF)](https://github.com/Archive-of-practical-work-for-the-MPT/Industrial-Practic-C-Sharp)
 ### 3 курс:
 * [Data Analytics](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Analytics)
 * [Data Science](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Science)
 * [Системное программирование - Arduino](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Arduino)
-* Инструментальные средства разработки программного - Blender
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
 * Разработка программных модулей - Unity
 * [Разработка программных модулей - ASP.NET](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-ASP)
 * [Поддержка и тестирование программных модулей - Java, C#, Apache](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
 * [Маркетинг](https://github.com/Archive-of-practical-work-for-the-MPT/Marketing)
-* Учебная практика - Figma, Pixso
 * [Учебная практика 2 - C#](https://github.com/Archive-of-practical-work-for-the-MPT/ISART)
 * Курсовая работа - Java
 ### 4 курс:
