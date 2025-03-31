@@ -17,7 +17,7 @@
 * Основы алгоритмизации и программирования - [Python](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Python) | [Solidity](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Solidity) | [C#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Sharp) | [Итоговая практическая C#](https://github.com/Archive-of-practical-work-for-the-MPT/EMIAS)
 * [Системное программирование - C++](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Plus-Plus)
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
-* Основы проектирования баз данных - T-SQL, PostgreSQL, MySql
+* [Основы проектирования баз данных - T-SQL, PostgreSQL, MySql](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-SQL)
 * [Разработка программных модулей - HTML, CSS, JS, REACT](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-WEB)
 * [Поддержка и тестирование программных модулей - C#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
 * [Учебная практика - С# (WPF)](https://github.com/Archive-of-practical-work-for-the-MPT/Industrial-Practic-C-Sharp)
