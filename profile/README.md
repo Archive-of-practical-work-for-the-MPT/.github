@@ -26,7 +26,7 @@
 * [Data Science](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Data-Science)
 * [Системное программирование - Arduino](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Arduino)
 * [Разработка мобильных приложений - Java](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Java)
-* Разработка программных модулей - Unity
+* [Разработка программных модулей - Unity](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Unity)
 * [Разработка программных модулей - ASP.NET](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-ASP)
 * [Поддержка и тестирование программных модулей - Java, C#, Apache](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
 * [Маркетинг](https://github.com/Archive-of-practical-work-for-the-MPT/Marketing)
