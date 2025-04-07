@@ -31,6 +31,6 @@
 * [Поддержка и тестирование программных модулей - Java, C#, Apache](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Tests)
 * [Маркетинг](https://github.com/Archive-of-practical-work-for-the-MPT/Marketing)
 * [Учебная практика 2 - C#](https://github.com/Archive-of-practical-work-for-the-MPT/ISART)
-* Курсовая работа - Java
+* [Курсовая работа - Java](https://github.com/Archive-of-practical-work-for-the-MPT/RaterTune)
 ### 4 курс:
 * скоро здесь будут предметы @_@
