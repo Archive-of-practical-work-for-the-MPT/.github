@@ -11,7 +11,7 @@
 Этот архив как уже описано ранее состоит из репозиторий, каждый из которых соответствует определенной дисциплине, изученному в МПТ. Внутри каждой директории находятся ветки, относящиеся к конкретным практическим работам. Предметы которые хранятся в этом архиве:
 
 ### 1 курс:
-* Информатика
+* [Информатика - Pascal](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Pascal)
 * [Индивидуальный проект - Python](https://github.com/Archive-of-practical-work-for-the-MPT/Visual-list-of-books-app)
 ### 2 курс:
 * Основы алгоритмизации и программирования - [Python](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Python) | [Solidity](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Solidity) | [C#](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-C-Sharp) | [Итоговая практическая C#](https://github.com/Archive-of-practical-work-for-the-MPT/EMIAS)
