@@ -32,5 +32,6 @@
 * [Маркетинг](https://github.com/Archive-of-practical-work-for-the-MPT/Marketing)
 * [Учебная практика 2 - C#](https://github.com/Archive-of-practical-work-for-the-MPT/ISART)
 * [Курсовая работа - Java](https://github.com/Archive-of-practical-work-for-the-MPT/RaterTune)
+* [Учебная практика 3 - Django](https://github.com/Archive-of-practical-work-for-the-MPT/Django-Educational-Practice)
 ### 4 курс:
 * скоро здесь будут предметы @_@
