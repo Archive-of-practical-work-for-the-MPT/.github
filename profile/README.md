@@ -34,4 +34,4 @@
 * [Курсовая работа - Java](https://github.com/Archive-of-practical-work-for-the-MPT/RaterTune)
 * [Учебная практика 3 - Django](https://github.com/Archive-of-practical-work-for-the-MPT/Django-Educational-Practice)
 ### 4 курс:
-* скоро здесь будут предметы @_@
+* [Учебная практика 4 - Spring](https://github.com/Archive-of-practical-work-for-the-MPT/Spring-Educational-Practice)
