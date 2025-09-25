@@ -35,3 +35,4 @@
 * [Учебная практика 3 - Django](https://github.com/Archive-of-practical-work-for-the-MPT/Django-Educational-Practice)
 ### 4 курс:
 * [Учебная практика 4 - Spring](https://github.com/Archive-of-practical-work-for-the-MPT/Spring-Educational-Practice)
+* [Обеспечение качества функционирования КС - Docker](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Docker)
