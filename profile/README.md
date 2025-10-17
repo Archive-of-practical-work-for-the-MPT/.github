@@ -35,6 +35,6 @@
 * [Учебная практика 3 - Django](https://github.com/Archive-of-practical-work-for-the-MPT/Django-Educational-Practice)
 ### 4 курс:
 * [Учебная практика 4 - Spring](https://github.com/Archive-of-practical-work-for-the-MPT/Spring-Educational-Practice)
-* [Обеспечение качества функционирования КС - Docker](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Docker)
+* [Обеспечение качества функционирования КС - Docker](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Docker) | [Дополнительная практическая](https://github.com/Merrcurys/WPF-Docker-Example)
 * [Курсовая работа - Django](https://github.com/Archive-of-practical-work-for-the-MPT/GreenQuality)
 * [Внедрение и поддержка компьютерных систем - Dart](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Dart)
