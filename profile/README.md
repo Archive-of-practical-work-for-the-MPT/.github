@@ -32,6 +32,7 @@
 * [Маркетинг](https://github.com/Archive-of-practical-work-for-the-MPT/Marketing)
 * [Учебная практика 2 - C#](https://github.com/Archive-of-practical-work-for-the-MPT/ISART)
 * [Курсовая работа - Java](https://github.com/Archive-of-practical-work-for-the-MPT/RaterTune)
+* Производственная практика - ПАО "Газпром Автоматизация"
 * [Учебная практика 3 - Django](https://github.com/Archive-of-practical-work-for-the-MPT/Django-Educational-Practice)
 ### 4 курс:
 * [Учебная практика 4 - Spring](https://github.com/Archive-of-practical-work-for-the-MPT/Spring-Educational-Practice)
@@ -39,3 +40,4 @@
 * [Курсовая работа - Django](https://github.com/Archive-of-practical-work-for-the-MPT/GreenQuality)
 * [Внедрение и поддержка компьютерных систем - Dart](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Dart)
 * [Математическое моделирование - HTML, CSS, JS, Excel](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-MathematicalModeling)
+* Производственная практика - АО "Россельхозбанк"
