@@ -41,3 +41,6 @@
 * [Внедрение и поддержка компьютерных систем - Dart](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Dart)
 * [Математическое моделирование - HTML, CSS, JS, Excel](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-MathematicalModeling)
 * Производственная практика - АО "Россельхозбанк"
+* Курсовая работа 2 - Django
+### Диплом:
+* Дипломная работа
