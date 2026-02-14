@@ -42,7 +42,7 @@
 * [Учебная практика 4 - Spring](https://github.com/Archive-of-practical-work-for-the-MPT/Spring-Educational-Practice)
 * [Обеспечение качества функционирования КС - Docker](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Docker) | [Дополнительная практическая](https://github.com/Archive-of-practical-work-for-the-MPT/WPF-Docker-Example)
 * [Курсовая работа - Django](https://github.com/Archive-of-practical-work-for-the-MPT/GreenQuality)
-* [Экономика отрасли](https://github.com/Archive-of-practical-work-for-the-MPT/EnterpriseEconomics)
+* [Экономика отрасли - Python](https://github.com/Archive-of-practical-work-for-the-MPT/EnterpriseEconomics)
 * [Внедрение и поддержка компьютерных систем - Dart](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-Dart)
 * [Математическое моделирование - HTML, CSS, JS, Excel](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-MathematicalModeling)
 * Производственная практика - АО "Россельхозбанк"
