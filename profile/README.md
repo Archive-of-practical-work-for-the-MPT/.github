@@ -47,5 +47,10 @@
 * [Математическое моделирование - HTML, CSS, JS, Excel](https://github.com/Archive-of-practical-work-for-the-MPT/Homework-MathematicalModeling)
 * Производственная практика - АО "Россельхозбанк"
 * [Курсовая работа 2 - Django](https://github.com/Archive-of-practical-work-for-the-MPT/LeaseGrow)
+* Производственная практика - АО "Россельхозбанк"
+* Производственная практика - АО "Россельхозбанк"
+* ГИА
+* Производственная практика - АО "Россельхозбанк"
+
 ### Диплом:
 * Дипломная работа
