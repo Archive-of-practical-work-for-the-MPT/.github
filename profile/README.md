@@ -53,4 +53,4 @@
 * Преддипломная практика - АО "Россельхозбанк"
 
 ### Диплом:
-* Дипломная работа
+* [Дипломная работа](https://github.com/Archive-of-practical-work-for-the-MPT/LeaseGrowDiploma)
